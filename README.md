@@ -31,4 +31,12 @@ Run the executable:
 ./book-distribution
 
 
-If you want to chage the count of pages in the books and/or the number of books, it can be done right at the beggining of the main function by changing the vector books[]
+If you want to chage the count of pages in the books and/or the number of books, it can be done right at the beggining of the main function by changing the values of the vector books[]
+
+The basic example that is already in the code will have the output
+
+Partition 1: 100 400 700
+
+Partition 2: 200 500 800
+
+Partition 3: 300 600 900
