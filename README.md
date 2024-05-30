@@ -27,7 +27,6 @@ Before you can build and run this project, ensure you have the following install
    gcc main.c -o book-distribution
 Run the executable:
 
-sh
 
-./book-distribution
+./book-distribution  ```
 If you want to chage the count of pages in the books and/or the number of books, it can be done right at the beggining of the main function by changing the vector books[]
