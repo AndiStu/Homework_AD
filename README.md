@@ -22,10 +22,12 @@ Before you can build and run this project, ensure you have the following install
 1. **Open your terminal** and navigate to the project directory:
    cd /path/to/book-distributio
    Compile the code using GCC:
-2.Compile the code using GCC
-  
-gcc main.c -o book-distribution
-3.Run executable
-./book-distribution
+2. Compile the code using GCC:
+   ```sh
+   gcc main.c -o book-distribution
+Run the executable:
 
+sh
+
+./book-distribution
 If you want to chage the count of pages in the books and/or the number of books, it can be done right at the beggining of the main function by changing the vector books[]
