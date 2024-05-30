@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717092680 source:c:\users\andi\documents\homework_algorithm_design\main.c
+	<stdio.h>
+	<stdlib.h>
+
